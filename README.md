@@ -1,2 +1,2 @@
 # Exercise3
-READMe
+README
